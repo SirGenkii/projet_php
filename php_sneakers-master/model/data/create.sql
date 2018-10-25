@@ -1,10 +1,9 @@
-CREATE TABLE sneakers (
+CREATE TABLE sneaker (
 	id INTEGER PRIMARY KEY,
   marque TEXT,
 	modele TEXT,
 	couleur TEXT,
 	prix REAL,
-  gamme TEXT CHECK (VALUE IN ('H', 'F', 'E')),
+  gamme TEXT ,
   image TEXT
-
 );
