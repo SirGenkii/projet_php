@@ -4,7 +4,7 @@ CREATE TABLE sneakers (
 	modele TEXT,
 	couleur TEXT,
 	prix REAL,
-  gamme TEXT CHECK (VALUE IN ('H', 'F', 'E')),
+  gamme TEXT CHECK (VALUE IN ('H', 'F')),
   image TEXT
 
 );
