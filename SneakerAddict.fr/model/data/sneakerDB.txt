@@ -1,0 +1,40 @@
+1|Nike|Air Max 1 Premium|bordeaux|140|H|1.jpg
+2|Nike|Air Max 1 Premium|noir|140|H|2.jpg
+3|Nike|Air Max 1 Premium|jaune|140|H|3.jpg
+4|Nike|Air Max 97|blanc|180|H|4.jpg
+5|Nike|Air Max 97|noir|180|H|5.jpg
+6|Adidas|Forest Grove|noir|80|H|6.jpg
+7|Adidas|Forest Grove|bleu|80|H|7.jpg
+8|Adidas|Forest Grove|blanc|80|H|8.jpg
+9|Adidas|Zx 500 Rm|noir|160|F|9.jpg
+10|Adidas|Superstar|blanc|100|F|10.jpg
+11|Adidas|Yung'1|blanc|120|F|11.jpg
+12|Adidas|Arkyn|noir|180|F|12.jpg
+13|Adidas|Falcon|Gris et vert menthe|100|F|13.jpg
+14|Adidas|Prophere|Kaki et Cuivre|120|F|14.jpg
+15|Adidas|Deerupt Runner|Bleu|100|F|15.jpg
+16|Adidas|Swift Run|Blanc|110|F|16.jpg
+17|Adidas|Samba OG|Blanc et Rouge|110|F|17.jpg
+18|Adidas|Eqt Support Sock 1/3|Blanc et Menthe|F|140|18.jpg
+19|Nike|Air Max 95 Og|Noir et gris|180|F|19.jpg
+20|Nike|Outburst|violet|90|F|20.jpg
+21|Nike|Internationalist|Argenté|90|F|21.jpg
+22|Nike|Air force 1 Sage|Blanc|110|F|22.jpg
+23|Nike|Cortez Se|Beige|90|F|23.jpg
+24|Nike|Air Max 97|Gris et rose|180|F|24.jpg
+25|Nike|Ashin|Noir|80|F|25.jpg
+26|Nike|Future Fast Racer|Noir et gris|130|F|26.jpg
+27|Nike|Triple M2K Tekno|Blanc|100|G|27.jpg
+28|Nike|MD|Noir|65|F|28.jpg
+29|Nike|Air Max 1 Premium|Crème et kaki|140|F|29.jpg
+30|Adidas|POD-S3.1|Noir|100|H|30.jpg
+31|Adidas|Sobakov|Rose|140|H|31.jpg
+32|Adidas|Yung-1|Blanc|120|H|32.jpg
+33|Adidas|Deerupt|Noir|120|H|33.jpg
+34|Adidas|EQT Bask ADV|Noir|120|H|34.jpg
+35|Adidas|Originals F22 Atric|Orange|140|H|35.jpg
+36|Nike|Presto Fly JDI|Blanc|100|H|36.jpg
+37|Nike|Air Vortex|Or|100|H|37.jpg
+38|Nike|Air Span II|Vert|100|H|38.jpg
+39|Nike|Air Max 90|Bleu|140|H|39.jpg
+40|Nike|Air Max 270|Blanc|150|H|40.jpg

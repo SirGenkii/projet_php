@@ -1,0 +1,82 @@
+
+.retour_div{
+  width:50px;
+  height:50px;
+}
+.box{
+  display: flex;
+  flex-direction:row;
+  padding-top: 150px;
+}
+
+.box_carac{
+  display: flex;
+  flex-direction: row;
+}
+.retour{
+  width:50px;
+  height:50px;
+}
+
+.vide1{
+  width:200px;
+}
+.vide2{
+  width:200px;
+}
+.container_carac{
+  border:25px inset gray;
+
+  width:800px;
+  height:400px;
+}
+.box_container_carac{
+  display: flex;
+  flex-direction: row;
+}
+
+.vide_box_carac1{
+  width:200px;
+}
+.vide_box_carac2{
+  width:200px;
+}
+
+.image_sneakers{
+  height:500px;
+  margin-left: 200px;
+}
+li{
+  padding-top: 10px;
+  font-weight: 1000px;
+}
+.img_sneakers{
+  height: 500px;
+  -moz-border-radius:10px 0;
+  -webkit-border-radius:10px 0;
+  border-radius:10px 0;
+}
+.carac{
+  list-style-type: none;
+}
+.carac_gamme{
+  font-family: Andale Mono, monospace;
+}
+h2{
+  font-family: Optima, sans-serif;
+}
+.carac_prix{
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+
+}
+.p_taille{
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+}
+.carac_modele{
+  padding-top: 0px;
+}
+p{
+  font-weight: 400;
+}
